@@ -1,0 +1,13 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#board {
+    display: flex;
+    border: 2px solid lightgray;
+    border-radius: 10px;
+}
+
+.number {
+    margin: 15px;
+}
